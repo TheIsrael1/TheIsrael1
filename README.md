@@ -5,8 +5,8 @@ I love to contribute to  projects. I'm actively contributing to some and also le
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
 - 🔭 I’m currently working on frontend projects.
-- 🌱 I’m currently learning React, Typescript, Solidity e.t.c. and helping tech community through my [writing](https://medium.com/@devlikeisrael).
-- 👯 I’m willing to collaborate on building communitites, and research projects.
+- 🌱 I’m currently learning React, Typescript, Solidity e.t.c. and helping the tech community through my [writing](https://medium.com/@devlikeisrael).
+- 👯 I’m willing to collaborate on building communitites, open source projects and short sprint projects aka freelancing.
 - 📫 How to reach me: ehindero2016@gmail.com
 - 😄 Pronouns: He/Him.
 - 🎵 I code with trap lofi

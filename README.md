@@ -1,4 +1,4 @@
-### Hi there, I'm ehindero Israel(Dero) 👋
+### Hi there, I'm ehindero Israel (dero) 👋
 
 I love to contribute to  projects. I'm actively contributing to some and also learning new stuff on the go. Currently an undergrad CS student, **Finalist at [HNG Internships](https://internship.zuri.team/)**. 
 

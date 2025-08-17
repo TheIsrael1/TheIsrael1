@@ -5,11 +5,9 @@ Software Engineer and Builder 👷🏽‍♂️
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
 - 🔭 I’m currently Learning Rust 😄.
-- 🌱 Today I know Javascript, Typescript and some python.
 - 👯 I'm willing to collaborate on building communitites,<br>
   open source projects and short sprint projects.
 - 👨🏼‍🎨 If I'm not pushing code, I'm doing some other creative things.<br>
-  Discover me on [Medium](https://medium.com/@ehindero).
 
 <br>
 <a href="https://twitter.com/ehindero_">

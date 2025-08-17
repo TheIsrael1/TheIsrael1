@@ -4,6 +4,7 @@ Software Engineer and Builder 👷🏽‍♂️
 
 <img align="right" alt="GIF" height="300px" width="300px" src="./assets/skr-sig.gif" />
 
+- ⛷️ I'm a skilled fullstack software engineer
 - 🔭 I’m currently Learning Rust 😄.
 - 👯 I'm willing to collaborate on building communitites,<br>
   open source projects and short sprint projects.
